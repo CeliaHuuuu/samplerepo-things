@@ -2,6 +2,8 @@ blue
 green
 red
 white
+orange
+sky blue
 black
 grey
 black

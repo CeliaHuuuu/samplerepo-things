@@ -1,3 +1,11 @@
 blue
+green
 red
 white
+purple
+orange
+sky blue
+black
+grey
+black
+yellow
